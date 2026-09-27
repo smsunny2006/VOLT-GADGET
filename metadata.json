@@ -1,0 +1,8 @@
+{
+  "name": "VoltGadgets – Tech Marketplace",
+  "description": "Discover and shop high-performance electronics, smart wearables, noise-canceling audio, drones, and gaming gear with AI recommendations and instant checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
